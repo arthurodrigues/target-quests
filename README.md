@@ -118,5 +118,3 @@ console.log("String invertida: " + inverteString(minhaString));
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
-```
